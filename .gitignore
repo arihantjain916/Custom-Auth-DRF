@@ -1,0 +1,6 @@
+# Django stuff:
+db.sqlite3
+
+
+# Environments
+.env
