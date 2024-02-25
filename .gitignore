@@ -4,6 +4,6 @@ db.sqlite3
 .env
 
 #temp
-/auth_example/__pycache__
-/account/__pycache__
-/account/migrations
+/auth_example/__pycache__/
+/account/__pycache__/
+/account/migrations/
