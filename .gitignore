@@ -1,6 +1,9 @@
-# Django stuff:
 db.sqlite3
-
 
 # Environments
 .env
+
+#temp
+/auth_example/__pycache__
+/account/__pycache__
+/account/migrations
